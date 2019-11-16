@@ -2,5 +2,3 @@ theme: jekyll-theme-midnight
 name: Mijin Yoon
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-permalink: /cv
-permalink: /about
