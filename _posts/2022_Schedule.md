@@ -1,9 +1,9 @@
-layout	title	date
-post
-Schedule
-2019-11-16
-11/29/2019-1/7/2020: Visit Korea
-1/7-1/9: Visit Beijing
-1/9- : Back to RUB
-1/15: RUB astronomy seminar talk
-1/14-1/16: Fellow visit week in GCCL
+---
+layout: post
+title: "Schedule"
+date: 2022-05-23
+---
+July 5th - July 8th: Lensing Workshop at KICC <br />
+July 26th - July 29th: Visiting University of Michigan, Ann Arbor 
+Aug. 1st - Aug. 5th: LSST DESC meeting in Chicago <br />
+Aug. 8th - Aug 11th: IAU meeting in Korea (Pusan) <br />
